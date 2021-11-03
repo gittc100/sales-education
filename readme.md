@@ -113,8 +113,46 @@
     - auto responder
     - broadcast messenger
     - sms (texting)
-    - 
-- 
+    - bots
+- App
+    - push notifications
+
+
+<hr>
+
+## Video #4
+
+### Link
+
+[Website Sales Funnel Secrets to Triple Your Profits](https://www.youtube.com/watch?v=KcR8QVh4fzw)
+
+## Website Sales Funnels
+
+### Cold Traffic Ads
+
+- Facebook
+    - facebook pixel
+    - retargeted facebook ads
+- youtube
+
+- exit intent popup
+    - last chance opt-in
+- thank you offers
+    - warm lead
+    - email list
+
+- email sales sequence
+    - mailchimp
+    - drip
+
+<hr>
+
+## Video #5
+
+### Link
+
+[Most Popular High Converting Sales Funnels [Sales Funnels for Beginners Class 3 of 7]](https://www.youtube.com/watch?v=qj4UtOWMzYg)
+
 
 
 <hr>
