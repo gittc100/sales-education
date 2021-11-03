@@ -153,6 +153,4 @@
 
 [Most Popular High Converting Sales Funnels [Sales Funnels for Beginners Class 3 of 7]](https://www.youtube.com/watch?v=qj4UtOWMzYg)
 
-
-
 <hr>
